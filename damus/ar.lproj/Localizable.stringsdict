@@ -17,7 +17,7 @@
 			<key>one</key>
 			<string>%d منشور اضافي</string>
 			<key>other</key>
-			<string>%dمنشورات اضافية</string>
+			<string>%d منشورات اضافية</string>
 			<key>two</key>
 			<string>%d منشوران</string>
 			<key>zero</key>
@@ -113,7 +113,7 @@
 			<key>many</key>
 			<string> &amp; %d آخرون</string>
 			<key>one</key>
-			<string>&amp; %dآخر</string>
+			<string>&amp; %d آخر</string>
 			<key>other</key>
 			<string>&amp; %d آخرين</string>
 			<key>two</key>
